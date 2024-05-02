@@ -1,0 +1,102 @@
+
+
+.card {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 25px;
+}
+
+.text-input {
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  margin-right: 15px;
+  width: 300px;
+}
+
+.add-btn {
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  background-color: darkgreen;
+  color: white;
+}
+
+.card-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.card-text {
+  font-size: 20px;
+  color: black;
+  margin-right:20px;
+font-weight: bold;
+}
+.del-btn{
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  background-color: darkred;
+  color: white;
+  margin-left: 10px;
+}
+.del-btn:hover{
+  background-color: red;
+}
+
+.edit-btn{
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  background-color: darkblue;
+  color: white;
+  margin-left: 10px;
+}
+.edit-btn:hover{
+  background-color: blue;
+}
+
+.add-btn:hover{
+  background-color: rgb(34, 190, 229);
+}
+.edit-input{
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  margin-right: 15px;
+  width: 200px;
+}
+.save-btn{
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  background-color: darkgreen;
+  color: white;
+}
+.save-btn:hover{
+  background-color: rgb(34, 190, 229);
+}
+.cancel-btn{
+  padding: 10px;
+  border: 1px solid #040303;
+  border-radius: 5px;
+  background-color: darkred;
+  color: white;
+  margin-left: 10px;
+}
+.cancel-btn:hover{
+  background-color: red;
+}
